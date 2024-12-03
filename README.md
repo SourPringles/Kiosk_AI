@@ -5,3 +5,5 @@ bin/back1 폴더의 link.py에서 본인의 MySQL ID,Password, port를 변경하
 bin/front 폴더의 patois_Alter.py에 있는 openAI()메서드에 api_key를 입력하시오.<br>
 <br>
 My Work: init.py & bin/front
+<br>
+Sooooon
