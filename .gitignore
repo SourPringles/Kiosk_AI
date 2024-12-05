@@ -3,3 +3,4 @@
 *.pyc
 __pycache__/
 front/__pycache__/
+.venv/
